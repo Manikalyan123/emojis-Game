@@ -1,0 +1,10 @@
+/* Write your code here. */
+.listOrder {
+  background-color: #9796f0;
+  padding-left: 60px;
+  padding-top: 30px;
+  margin: 10px;
+  list-style: none;
+  height: 22vh;
+  width: 22vw;
+}
